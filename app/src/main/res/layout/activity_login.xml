@@ -69,7 +69,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/login"
-                    android:theme="@style/RaisedButtonDark" />
+                    android:theme="@style/RaisedButtonDark"
+                    android:onClick="goContainer"/>
 
                 <RelativeLayout
                     android:layout_width="match_parent"
